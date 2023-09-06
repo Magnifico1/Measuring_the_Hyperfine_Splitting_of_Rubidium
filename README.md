@@ -9,10 +9,10 @@ This technique was employed due to the undesired effects of Doppler broadening. 
 the main experiment, a calibration process was first necessary to determine the relation for time
 differences in the PHA output to differences in frequency between the Rubidium atoms’ energy
 levels. We then constructed an arrangement to be able to measure the energy dips corresponding
-to the atoms’ transition energies. We obtained three energies between the $F = 1$, F = 2, and F = 3
+to the atoms’ transition energies. We obtained three energies between the $F = 1$, $F = 2$, and $F = 3$
 states of 52P 3
 2
-of 150 ± 20MHz, 260 ± 30MHz, and 410 ± 50MHz respectively. The best estimates
-lay within 6% of the literature values and their ranges of uncertainty were in accordance with the
+of $150 ± 20MHz, 260 ± 30MHz$, and $410 ± 50MHz$ respectively. The best estimates
+lay within $6\%$ of the literature values and their ranges of uncertainty were in accordance with the
 true energies.
 
